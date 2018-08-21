@@ -1,5 +1,5 @@
 {
-    "name": "fortawesom/fontawesome",
+    "name": "panreach/fontawesome",
     "license": "FortAwesome",
     "type": "project",
     "description": "Simple composer.json so FortAwesome to be used with getcomposer.org"
